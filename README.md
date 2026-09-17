@@ -13,9 +13,9 @@ We develop and maintain purposeful, dependable technology to support Divine Rive
 * **Integrations:** Bridging software systems to keep church operations running smoothly.
 
 ### Repositories Overview
-* `Production Apps` — Systems currently active in weekly services and operations.
-* `Internal Utilities` — Administrative scripts, data pipelines, and workflow automation.
-* `Experimental / Prototypes` — New tools currently under evaluation.
+* `Production Apps` - Systems currently active in weekly services and operations.
+* `Internal Utilities` - Administrative scripts, data pipelines, and workflow automation.
+* `Experimental / Prototypes` - New tools currently under evaluation.
 
 ### Official Links
 * **Facebook:** [Divine River Church Ministries](https://www.facebook.com/Divine-River-Church-Ministries)
